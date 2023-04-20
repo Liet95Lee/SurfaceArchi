@@ -1326,7 +1326,9 @@
                             <img class="map text_align_left" src="images/section17/flag1.png" alt="flag1" />
                             <img class="map text_align_left" src="images/section17/flag2.png" alt="flag2" />
                             <img class="map text_align_left" src="images/section17/flag3.png" alt="flag3" />
-                            <img class="map text_align_left margin0" src="images/section17/flag4.png" alt="flag4" />
+                            <img class="map text_align_left" src="images/section17/flag4.png" alt="flag4" />
+                            <img class="map text_align_left" src="images/section17/flag5.png" alt="flag5" />
+                            <img class="map text_align_left margin0" src="images/section17/flag6.png" alt="flag6" />
                         </div>
                         <div class="buttonBox marginSpeacial1 text-left">
                             <a href="https://api.whatsapp.com/send?phone=60127271962&text=I%27m%20interested,%20would%20like%20to%20know%20more%20about%20Surface%20Archi">
@@ -2155,6 +2157,85 @@
                         </div>
                     </div>
             </div>
+            <div id="AddThreeAddress" class="row justify-content-md-center">
+                <div class="col-md-4">
+                    <div class="address-item address-item-first">
+                        <img src="images/icon-location.png" alt="Location" class="img-fluid add-loc" />
+                        <div class="address-penang">
+                            <div class="locationImage"><img src="images/Selayang-HQ.jpg"></div>
+                            <div class="address-place">Selayang</div>
+                            <address>A-07, Emerald Avenue, Jalan PS 11, Prima Selayang, 68100 Selangor.</address>
+                            <div class="add-direction">
+                                <div class="row justify-content-center">
+                                    <div class="col-3">
+                                        <a href="https://www.waze.com/en/live-map/directions/my/selangor/batu-caves/emerald-avenue?place=ChIJgfTIguVGzDERHg1UpVn4cO0" target="_blank">
+                                            <img src="images/icon-waze.png" alt="Waze" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                    <div class="col-3">
+                                        <a href="https://goo.gl/maps/F96Nd2ujsH9pKFkb8" target="_blank">
+                                            <img src="images/icon-gmap.png" alt="Google Map" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="address-item address-item-second">
+                        <img src="images/icon-location.png" alt="Location" class="img-fluid add-loc" />
+                        <div class="address-puchong">
+                            <div class="locationImage"><img src="images/Old-Klang-Road.jpg"></div>
+                            <div class="address-place">Old Klang Road</div>
+                            <address>
+                            3&5, Jalan Telok Panglima Garang, Off Jalan Klang Lama, 58000 Kuala Lumpur.
+                            </address>
+                            <div class="add-direction">
+                                <div class="row justify-content-center">
+                                    <div class="col-3">
+                                        <a href="https://waze.com/ul/hw2839yc30" target="_blank">
+                                            <img src="images/icon-waze.png" alt="Waze" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                    <div class="col-3">
+                                        <a href="https://goo.gl/maps/b9xhev1Cam1B3q2v8" target="_blank">
+                                            <img src="images/icon-gmap.png" alt="Google Map" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="address-item">
+                        <img src="images/icon-location.png" alt="Location" class="img-fluid add-loc" />
+                        <div class="address-puchong">
+                            <div class="locationImage"><img src="images/Setia-Alam-HQ.jpg"></div>
+                            <div class="address-place">Setia Alam</div>
+                            <address>
+                                    Lot 23-G, Jalan Setia Utama AT U13/AT, 40170 Shah Alam, Selangor.
+                            </address>
+                            <div class="add-direction">
+                                <div class="row justify-content-center">
+                                    <div class="col-3">
+                                        <a href="https://waze.com/ul/hw281ubyhr" target="_blank">
+                                            <img src="images/icon-waze.png" alt="Waze" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                    <div class="col-3">
+                                        <a href="https://goo.gl/maps/cwM8zRDW4ZUi3Yim9" target="_blank">
+                                            <img src="images/icon-gmap.png" alt="Google Map" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="buttonBox">
                 <a href="https://api.whatsapp.com/send?phone=60127271962&text=I%27m%20interested,%20would%20like%20to%20know%20more%20about%20Surface%20Archi">
                     <button class="dgBtn">
